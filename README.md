@@ -9,3 +9,7 @@ Cuenta con la posibilidad de:
 3. Crear temporadas por semana para controlar la cantidad de libros leidos
 
 ![Previo](https://raw.githubusercontent.com/luislozad/managerbook/master/manager_book.png)
+
+La calidad del codigo es pobre aun estoy, aun estoy aprendiendo...
+
+Puedes seguirme en twitter como @LuisLzdev, eres libre de modificarlo como tu crees mejor conveniente, saludos, voy a estar agregando mas caracteristicas siempre...
