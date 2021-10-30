@@ -13,12 +13,12 @@ Cuenta con la posibilidad de:
 
 Proximamente:
 1. Manejador de evaluaciones de lo que leiste, basándose en tus notas.
-2. Alertar de fecha de finalizacion real.
+2. Alerta de fecha de finalizacion real.
 3. Alerta de páginas que deberias de leer basándose en la disponibilidad real que cuentas.
 4. Lector de libro incrustado.
 5. Detectar la cantidad de páginas y capitulos automaticamente.
 6. Alerta de motivacion diaria.
-7. Puntuacion de notas, para un orden prioriatio o menor.
+7. Puntuacion de notas, para un orden prioritario o menor.
 
 ![Previo](https://raw.githubusercontent.com/luislozad/managerbook/master/manager_book.png)
 
