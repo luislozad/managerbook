@@ -8,7 +8,7 @@ Cuenta con la posibilidad de:
 2. Controlador de paginas semanales leidas.
 3. Contiene un pequeño algoritmo que confirma la fecha real de finalizacion de la lectura del libro
 4. Agregar notas, para los resumenes de tus lecturas
-5. Crear temporadas de lecturas pueden basarce en semanas o dias, para manejar los libros que puedes leer segun tus metas.
+5. Crear temporadas de lecturas pueden basarse en semanas o dias, para manejar los libros que puedes leer segun tus metas.
 
 Proximamente:
 1. Manejador de evaluaciones de lo que leiste, basandoce en tus notas.
