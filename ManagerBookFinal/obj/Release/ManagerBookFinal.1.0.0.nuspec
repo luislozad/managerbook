@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ManagerBookFinal</id>
+    <version>1.0.0</version>
+    <authors>Luis Lozada</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0-windows7.0">
+        <dependency id="Microsoft.EntityFrameworkCore.Sqlite" version="5.0.11" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net5.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\LuisLz\source\repos\ManagerBookFinal\ManagerBookFinal\bin\Release\net5.0-windows\ManagerBookFinal.runtimeconfig.json" target="lib\net5.0-windows7.0\ManagerBookFinal.runtimeconfig.json" />
+    <file src="C:\Users\LuisLz\source\repos\ManagerBookFinal\ManagerBookFinal\bin\Release\net5.0-windows\ManagerBookFinal.dll" target="lib\net5.0-windows7.0\ManagerBookFinal.dll" />
+  </files>
+</package>

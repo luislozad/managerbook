@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Component\Button\BtnAdd.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Component\View\Card.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Component\View\Content.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Component\View\ContentR.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Component\View\ImageCover.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Component\View\ItemN.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Window\Popup\PopupAddB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Window\Popup\PopupAddN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Window\Popup\PopupAddR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Window\Popup\PopupEditR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Window\Popup\PopupAddT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
