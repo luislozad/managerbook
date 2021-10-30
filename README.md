@@ -13,7 +13,10 @@ Cuenta con la posibilidad de:
 Proximamente:
 1. Manejador de evaluaciones de lo que leiste.
 2. Alertar de tu fecha de finalizacion real.
-3. Alerta de paginas que deberias de leer basandoce en la disponibilidad real que cuentas
+3. Alerta de paginas que deberias de leer basandoce en la disponibilidad real que cuentas.
+4. Lector de libro incrustado.
+5. Detectar la cantidad de paginas y capitulos automaticamente.
+6. Alerta de motivacion diaria.
 
 ![Previo](https://raw.githubusercontent.com/luislozad/managerbook/master/manager_book.png)
 
