@@ -1,7 +1,7 @@
 # managerbook
 Manejador de lectura de libros beta
 
-Creé este programa, para que me ayude a manejar la cantidad de libros que puedo leer, basado en temporadas que pueden incluir la cantidad de libros que quieras en una determinada cantidad de meses. El software te ayuda a controlar la cantidad de páginas qué estas leyendo por semana y te advierte si en la fecha que fijaste previamente vas o no a llegar a tu meta.
+Creé este programa, para que me ayude a manejar la cantidad de libros que puedo leer, basado en temporadas que pueden incluir la cantidad de libros que quieras en una determinada cantidad de meses. El software te ayuda a controlar la cantidad de páginas que estás leyendo por semana y te advierte si en la fecha que fijaste previamente vas o no a llegar a tu meta.
 
 Cuenta con la posibilidad de:
 1. Controlador de horas diarias de lectura.
