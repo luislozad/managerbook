@@ -1,15 +1,20 @@
 # managerbook
 Manejador de lectura de libros beta
 
-Cree este programa, para que me ayude a manejar la cantidad de libros que puedo leer, basado en temporadas, para mi una temporada pueden incluir hasta 24 libros para leerlos en 4 meses, este software me dice si voy o no llegar a mi meta, dandome el tiempo en el que voy a terminar cada libro o temporada basandoce en la cantidad de paginas que leeo de un libro cada semana, mas adelante me gustaria agregarle alertas para que me hagan recordar mis metas y hasta que paginas diarias o semanales deberia de leer para llegar a mis mestas.
+Cree este programa, para que me ayude a manejar la cantidad de libros que puedo leer, basado en temporadas que pueden incluir la cantidad de libros de quieras en una determinada candidad de meses. El software te ayuda a controlar la candidad de paginas que estas leyendo por semana y te advierte si en la fecha que fijaste previamente vas o no a llegar a tu meta.
 
 Cuenta con la posibilidad de:
-1. Agregar Notas, para dar mis resumenes de lo que leei
-2. Control de leectura de inicio a fin.
-3. Crear temporadas por semana para controlar la cantidad de libros leidos
+1. Controlador de horas diarias de lectura.
+2. Controlador de paginas semanales leidas.
+3. Contiene un pequeño algoritmo que confirma la fecha real de finalizacion de la lectura del libro
+4. Agregar notas, para los resumenes de tus lecturas
+5. Crear temporadas de lecturas pueden basarce en semanas o dias, para manejar los libros que puedes leer segun tus metas.
+
+Proximamente:
+1. Manejador de evaluaciones de lo que leiste.
+2. Alertar de tu fecha de finalizacion real.
+3. Alerta de paginas que deberias de leer basandoce en la disponibilidad real que cuentas
 
 ![Previo](https://raw.githubusercontent.com/luislozad/managerbook/master/manager_book.png)
-
-La calidad del codigo es pobre, aun estoy aprendiendo...
 
 Puedes seguirme en twitter como @LuisLzdev, eres libre de modificarlo como tu crees mejor conveniente, saludos...
