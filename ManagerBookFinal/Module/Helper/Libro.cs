@@ -72,10 +72,10 @@ namespace ManagerBookFinal.Module.Helper
 
                 reading.ForEach(readM =>
                 {
-                    int hourStart = Time.GetHourTimeUnix(readM.HoraInicial);
-                    int hourEnd = Time.GetHourTimeUnix(readM.HoraFinal);
+                    var hourStart = Time.GetHourTimeUnix(readM.HoraInicial);
+                    var hourEnd = Time.GetHourTimeUnix(readM.HoraFinal);
 
-                    int hours = hourEnd - hourStart;
+                    var hours = (hourEnd - hourStart).Hours;
 
                     if (hours > 0)
                     {

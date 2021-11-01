@@ -561,6 +561,7 @@ namespace ManagerBookFinal.Module
 
                     libro.PagesCompl += readingLibro.PaginasDeHoy;
                     libro.ChaptersCompl += readingLibro.CapitulosDeHoy;
+                    libro.LastReadingDate = readingLibro.FechaFinal;
 
                     database.SaveChanges();
                 });
